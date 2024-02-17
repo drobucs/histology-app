@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "appFiles.path",
+      "type": "java.lang.String",
+      "description": "File storage directory."
+    },
+    {
+      "name": "appFiles.pdf.path",
+      "type": "java.lang.String",
+      "description": "Path to pdf directory."
+    },
+    {
+      "name": "content.type.html",
+      "type": "java.lang.String",
+      "description": "Type of html page."
+    }
+  ] }
