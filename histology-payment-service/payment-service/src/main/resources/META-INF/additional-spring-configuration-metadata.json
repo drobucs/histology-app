@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "backend.key.users",
+      "type": "java.lang.String",
+      "description": "Backend key for access to users-service."
+    },
+    {
+      "name": "yookassa.shop.id",
+      "type": "java.lang.String",
+      "description": "Shop id from yookassa."
+    },
+    {
+      "name": "yookassa..shop.secret-key",
+      "type": "java.lang.String",
+      "description": "Shop secret key from yookassa."
+    }
+  ] }
